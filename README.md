@@ -7,7 +7,7 @@ Programmed in `Platform IO`, models created in `Solidworks`, schematics created 
 - Upload the RC-Joystick-Reciever.ino in the `RC-Joystick-Receiver` folder to the joystick receiver
 
 ## Schematics
-Note: An Arduino Nano (transmitter) and Mega (receiver) are used in this schematic, but any Arduino with the pins required to work with the nRF24L01 module would also work, just remember to change the pin definitions in the code.
+Note: An Arduino Nano (transmitter) and Mega (receiver) are used in these schematics, but any Arduino with the pins required to work with the nRF24L01 module would also work, just remember to change the pin definitions in the code.
 
 Schematic for the RC-Joystick Transmitter:
 ![RC-JoystickTransmitter-Schematic](./Images/RC-JoystickTransmitter-Schematic/RC-JoystickTransmitter-Schematic.svg)
