@@ -4,7 +4,7 @@ EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title "RC-Joystick"
+Title "RC-Joystick Transmitter"
 Date "2022-01-19"
 Rev "2"
 Comp ""
@@ -25,7 +25,7 @@ F 3 "DOCUMENTATION" H 3650 6900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 850  1250 0    276  Italic 55
-RC-Joystick
+RC-Joystick Transmitter
 $Comp
 L power:+9V #PWR?
 U 1 1 61D82457
