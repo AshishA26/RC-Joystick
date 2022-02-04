@@ -18,13 +18,13 @@ Schematic for the RC-Joystick Revceiver:
 ## Images
 
 The final built Joystick using 3D printed parts and other components:
-![JoystickRealPic1](./Images/JoystickRealPic1.JPG)
+![JoystickRealPic1](./Images/JoystickRealPic1.jpg)
 
 All the wiring and components inside the Joystick:
-![JoystickRealPic2](./Images/JoystickRealPic2.JPG)
+![JoystickRealPic2](./Images/JoystickRealPic2.jpg)
 
 The 3D printed parts by itself:
-![JoystickRealPic3](./Images/JoystickRealPic3.JPG)
+![JoystickRealPic3](./Images/JoystickRealPic3.jpg)
 
 Rendered pictures of the 3D model I created using parts from [GrabCAD](https://grabcad.com/library) combined with my own models designed for 3D printing. Made in real-world scale and was made using `Solidworks`.
 ![JoystickPic1](./Images/JoystickPic1.JPG)
