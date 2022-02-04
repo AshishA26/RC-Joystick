@@ -2,6 +2,9 @@
 A custom designed joystick which transmits data using an nRF24L01 module.
 Programmed in `Platform IO`, models created in `Solidworks`, schematics created in `KiCad`.
 
+The final built Joystick using 3D printed parts and other components:
+![JoystickRealPic1](./Images/JoystickRealPic1.jpg)
+
 ## Instructions
 - Upload the RC-Joystick-Transmitter.ino in the `RC-Joystick-Transmitter` folder to the joystick transmitter
 - Upload the RC-Joystick-Reciever.ino in the `RC-Joystick-Receiver` folder to the joystick receiver
@@ -16,9 +19,6 @@ Schematic for the RC-Joystick Revceiver:
 ![RC-JoystickReciever-Schematic](./Images/RC-JoystickReceiver-Schematic/RC-JoystickReceiver-Schematic.svg)
 
 ## Images
-
-The final built Joystick using 3D printed parts and other components:
-![JoystickRealPic1](./Images/JoystickRealPic1.jpg)
 
 All the wiring and components inside the Joystick:
 ![JoystickRealPic2](./Images/JoystickRealPic2.jpg)
