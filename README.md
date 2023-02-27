@@ -1,8 +1,8 @@
 # RC-Joystick
-A custom designed joystick which transmits data using an nRF24L01 module.
-Programmed in `Platform IO`, models created in `Solidworks`, schematics created in `KiCad`.
+A custom designed joystick which transmits data using an nRF24L01 module. For an example of how this joystick can be used, please visit my [Omnibot project](https://github.com/AshishA26/OmniBot).
+Programmed in `Arduino IDE`, models created in `Solidworks`, schematics created in `KiCad`.
 
-The final built Joystick using 3D printed parts and other components:
+A picture of the built Joystick using 3D printed parts and other components:
 ![JoystickRealPic1](./Images/JoystickRealPic1.jpg)
 
 ## Instructions
